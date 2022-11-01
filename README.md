@@ -14,7 +14,7 @@
             <a href="https://twitter.com/tipofrizzantino"><p>@tipofrizzantino</p></a>
     </div>
       
-    <div class="classeImage">
+<div class="classeImage">
           <a href="https://www.instagram.com/tipofrizzantino/"><img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/instagramIcon.png" width="40 px" alt="instagram"></a>
           <a href="https://www.instagram.com/tipofrizzantino/"><p>@tipofrizzantino</p></a>
     </div>
