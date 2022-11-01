@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/styles.css">
+
 <h1 align='center'>
      Hello, Guys! <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/gifintro.gif" width="50px">
 </h1>
