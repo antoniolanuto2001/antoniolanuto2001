@@ -4,8 +4,7 @@
 </h1>
       
 <p align='center'>
-    <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/presentazione.png" alt="tipofrizzantino">
-        
+    <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/presentazione.png" alt="tipofrizzantino">        
 </p>
 <h4 align='center'>
         I have 21 years old and i'm student / research at Unina </br>
