@@ -6,7 +6,6 @@
     <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/presentazione.png" alt="tipofrizzantino">
   </a>
 </p>
-
-<h3 align='center'>
+<h2 align='center'>
   I have 21 years old and i'm student / research ad Unina 
-</h3></br>
+</h2></br>
