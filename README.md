@@ -3,12 +3,10 @@
 </h1>
 
 <p align='center'>
-  <a href="https://mayankfawkes.xyz">
     <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/as1.png" alt="mayank">
   </a>
 </p>
 
 <h3 align='center'>
-  I'm Student/Research at Unina.</br>
-  I'm from Italy, 
+  I have 21 years old and i'm student / research ad Unina 
 </h3></br>
