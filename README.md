@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" href="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/styles.css">
