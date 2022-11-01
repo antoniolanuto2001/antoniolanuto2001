@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/as1.png" alt="mayank">
+    <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/presentazione.png" alt="tipofrizzantino">
   </a>
 </p>
 
