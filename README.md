@@ -7,7 +7,7 @@
     <img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/presentazione.png" alt="tipofrizzantino">        
 </p>
 <h4 align='center'>
-        I have 21 years old and i'm student / researcher at Unina </br>
+        I'm 21 years old and i'm student / researcher at Unina </br>
      <div class="classeImage">
             <a href="https://twitter.com/tipofrizzantino"><img src="https://github.com/antoniolanuto2001/antoniolanuto2001/blob/main/twitterIcon.png"  width="50 px"           alt="twitter"></a>
             <a href="https://twitter.com/tipofrizzantino"><p>@tipofrizzantino</p></a>
